@@ -1,7 +1,6 @@
 {
   "name": "informationalsite",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +16,9 @@
   },
   "homepage": "https://github.com/am1macdonald/info_site#readme",
   "devDependencies": {
+    "nodemon": "^2.0.20",
     "prettier": "2.7.1"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
